@@ -16,20 +16,20 @@
 ### الخريطة الحرارية
 
 
-<img width="753" height="252" alt="Ar_heatmap" src="https://github.com/user-attachments/assets/8b246d36-f487-419a-b5a3-884021d6a867" />
-
 
 
  الميزات - تخطيط بديل للوحة المفاتيح العربية - ترتيب مُحسَّن للأحرف العربية - سهولة تعلم تعيين أزرار لوحة المفاتيح - مناسب للكتابة باللغة العربية - مفتوح المصدر
 
 ### لقطاط شاشة
 
-<img width="689" height="196" alt="Elkatib4" src="https://github.com/user-attachments/assets/8e09665b-5aee-4967-b871-2c15e7afc166" />
+<img width="792" height="343" alt="Arabic25" src="https://github.com/user-attachments/assets/c90b0227-4efa-46fc-81c7-9585d90e9271" />
 
 ### استخدام مفتاح الشيفت🔽
 
 
-<img width="792" height="343" alt="ElkatibShft" src="https://github.com/user-attachments/assets/ffb45c0a-135a-4366-bc9d-2ae578a223a8" />
+
+<img width="792" height="343" alt="Arabic25Shft" src="https://github.com/user-attachments/assets/649e0c3b-50a0-4db8-8cf7-616c38bd6dfd" />
+
 
 ### للتثبيت
 
