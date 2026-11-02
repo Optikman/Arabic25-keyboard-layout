@@ -1,40 +1,60 @@
-الصفحة الحالية معروضة باللغة العربية، للغة الانجليزية ◀️ | [English](README.md)
 
-# إلكاتب - تخطيط لوحة المفاتيح العربية
+This is an English explanation of the layout, for arabic >> [اللغة العربية](README.en.md)
+
+# Elkatib — Arabic Keyboard Layout
 
 
-إلكاتب هو تخطيط بديل للوحة المفاتيح العربية، مصمم لجعل الكتابة باللغة العربية أسرع وأسهل وأكثر كفاءة. يحتوي هذا المستودع على تخطيط لوحة المفاتيح العربية إلكاتب، وملفات التثبيت، وتعيينات لوحة المفاتيح، والوثائق، والموارد.
+Elkatib is an alternative Arabic keyboard layout designed to make
+Arabic typing faster, easier, and more efficient.
 
-## تخطيط لوحة المفاتيح العربية
+This repository contains the Elkatib Arabic keyboard layout,
+installation files, keyboard mapping, documentation, and resources.
 
-<img width="266" height="465" alt="ArabicLetters-36" src="https://github.com/user-attachments/assets/68d4e55c-a55f-4595-ad8b-d900e97251d3" />
+## Arabic Keyboard Layout
+
+Elkatib provides an alternative layout for typing Arabic characters
+on a computer. It is designed as an alternative to the standard
+Arabic keyboard layout.
+
+
 
 <img width="625" height="342" alt="HurufFRQsort" src="https://github.com/user-attachments/assets/82272945-6937-4469-aac4-42c8ff46b119" />
 
 <img width="850" height="523" alt="Frequencies-of-29-Arabic-letters" src="https://github.com/user-attachments/assets/ee7b29bc-bb21-4e88-91b8-e1818937942f" />
 
-### الخريطة الحرارية
 
-
-<img width="753" height="252" alt="Ar_heatmap" src="https://github.com/user-attachments/assets/8b246d36-f487-419a-b5a3-884021d6a867" />
+## Heatmap
 
 
 
- الميزات - تخطيط بديل للوحة المفاتيح العربية - ترتيب مُحسَّن للأحرف العربية - سهولة تعلم تعيين أزرار لوحة المفاتيح - مناسب للكتابة باللغة العربية - مفتوح المصدر
+## Features
 
-### لقطاط شاشة
+- Alternative Arabic keyboard layout
+- Optimized Arabic character arrangement
+- Easy-to-learn keyboard mapping
+- Suitable for Arabic typing
+- Open source
 
-<img width="689" height="196" alt="Elkatib4" src="https://github.com/user-attachments/assets/8e09665b-5aee-4967-b871-2c15e7afc166" />
 
-### استخدام مفتاح الشيفت🔽
+# ScreenShots
+
+<img width="792" height="343" alt="Arabic25" src="https://github.com/user-attachments/assets/ac646faa-ffb0-4121-851b-935f430ca687" />
 
 
-<img width="792" height="343" alt="ElkatibShft" src="https://github.com/user-attachments/assets/ffb45c0a-135a-4366-bc9d-2ae578a223a8" />
+# using Shift🔽
 
-### للتثبيت
 
-استخرج الملف، ثم شغّل ملف setup.exe، وستتم عملية التثبيت كالمعتاد. بعد التثبيت، أعد تشغيل الكمبيوتر.
+<img width="792" height="343" alt="Arabic25Shft" src="https://github.com/user-attachments/assets/236572e6-3e13-4fe9-963b-833186f78e90" />
 
-* ملاحظة * لاستخدام التخطيط، يمكنك الضغط على مفتاحي Windows + Space لتغيير التخطيطات.
+
+# Setup
+
+Extract the file , run setup.exe, and the rest will be just a normal setup.
+after installation restart the pc.
+
+
+ * note
+ * to use the layout you can press Windows + Space to change the layouts.
+
 Made by Optikman
 contact me: optikman35@gmail.com
