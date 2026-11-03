@@ -1,5 +1,5 @@
 
-This is an English explanation of the layout, for arabic >> [اللغة العربية](README.en.md)
+This is an English explanation of the layout, for arabic >> [اللغة العربية](README.md)
 
 # Elkatib — Arabic Keyboard Layout
 
