@@ -1,22 +1,22 @@
 
 This is an English explanation of the layout, for arabic >> [اللغة العربية](README.md)
 
-# Elkatib — Arabic Keyboard Layout
+# Arabic25 — Arabic Keyboard Layout
 
 
-Elkatib is an alternative Arabic keyboard layout designed to make
+Arabic25 is an Arabic keyboard layout designed to make
 Arabic typing faster, easier, and more efficient.
 
-This repository contains the Elkatib Arabic keyboard layout,
+This repository contains the Arabic25 keyboard layout,
 installation files, keyboard mapping, documentation, and resources.
 
 ## Arabic Keyboard Layout
 
-Elkatib provides an alternative layout for typing Arabic characters
+Arabic25 provides an alternative layout for typing Arabic characters
 on a computer. It is designed as an alternative to the standard
 Arabic keyboard layout.
 
-# This layout is based on study and research.
+## This layout is based on study and research.
 
 to download and read the study >> [Paper92021.pdf](https://github.com/user-attachments/files/34333796/Paper92021.pdf)
 
@@ -31,13 +31,13 @@ to download and read the study >> [Paper92021.pdf](https://github.com/user-attac
 - Open source
 
 
-# ScreenShots
+## ScreenShots
 
 
 <img width="696" height="192" alt="Arabic25_image" src="https://github.com/user-attachments/assets/77786fb7-a8f6-42f8-92c2-3b320c37b82b" />
 
 
-# using Shift🔽
+## using Shift🔽
 
 <img width="686" height="188" alt="Arabic25Shft_image" src="https://github.com/user-attachments/assets/d3d6354d-33aa-45f2-acd0-82202b937570" />
 
@@ -47,7 +47,7 @@ to download and read the study >> [Paper92021.pdf](https://github.com/user-attac
 [arabic25_keyboard_layout.zip](https://github.com/user-attachments/files/34333900/arabic25_keyboard_layout.zip)
 
 
-# Setup
+## Setup
 
 Extract the file , run setup.exe, and the rest will be just a normal setup.
 after installation restart the pc.
