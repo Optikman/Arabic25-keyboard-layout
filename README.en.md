@@ -16,14 +16,9 @@ Elkatib provides an alternative layout for typing Arabic characters
 on a computer. It is designed as an alternative to the standard
 Arabic keyboard layout.
 
+# This layout is based on study and research.
 
-
-<img width="625" height="342" alt="HurufFRQsort" src="https://github.com/user-attachments/assets/82272945-6937-4469-aac4-42c8ff46b119" />
-
-<img width="850" height="523" alt="Frequencies-of-29-Arabic-letters" src="https://github.com/user-attachments/assets/ee7b29bc-bb21-4e88-91b8-e1818937942f" />
-
-
-## Heatmap
+to download and read the study >> [Paper92021.pdf](https://github.com/user-attachments/files/34333796/Paper92021.pdf)
 
 
 
@@ -38,13 +33,18 @@ Arabic keyboard layout.
 
 # ScreenShots
 
-<img width="792" height="343" alt="Arabic25" src="https://github.com/user-attachments/assets/ac646faa-ffb0-4121-851b-935f430ca687" />
+
+<img width="696" height="192" alt="Arabic25_image" src="https://github.com/user-attachments/assets/77786fb7-a8f6-42f8-92c2-3b320c37b82b" />
 
 
 # using Shift🔽
 
+<img width="686" height="188" alt="Arabic25Shft_image" src="https://github.com/user-attachments/assets/d3d6354d-33aa-45f2-acd0-82202b937570" />
 
-<img width="792" height="343" alt="Arabic25Shft" src="https://github.com/user-attachments/assets/236572e6-3e13-4fe9-963b-833186f78e90" />
+
+## install
+
+[arabic25_keyboard_layout.zip](https://github.com/user-attachments/files/34333900/arabic25_keyboard_layout.zip)
 
 
 # Setup
