@@ -22,26 +22,24 @@
 
 
 
+## لقطاط شاشة
 
-### الخريطة الحرارية
-
-
-
-
- الميزات - تخطيط بديل للوحة المفاتيح العربية - ترتيب مُحسَّن للأحرف العربية - سهولة تعلم تعيين أزرار لوحة المفاتيح - مناسب للكتابة باللغة العربية - مفتوح المصدر
-
-### لقطاط شاشة
-
-<img width="792" height="343" alt="Arabic25" src="https://github.com/user-attachments/assets/c90b0227-4efa-46fc-81c7-9585d90e9271" />
-
-### استخدام مفتاح الشيفت🔽
+<img width="696" height="192" alt="Arabic25_image" src="https://github.com/user-attachments/assets/e1111c26-05c4-4ee2-8585-f689a7715385" />
 
 
 
-<img width="792" height="343" alt="Arabic25Shft" src="https://github.com/user-attachments/assets/649e0c3b-50a0-4db8-8cf7-616c38bd6dfd" />
+## استخدام مفتاح الشيفت
 
 
-### للتثبيت
+<img width="686" height="188" alt="Arabic25Shft_image" src="https://github.com/user-attachments/assets/d3d6354d-33aa-45f2-acd0-82202b937570" />
+
+
+
+## للتثبيت
+
+[arabic25_keyboard_layout.zip](https://github.com/user-attachments/files/34334160/arabic25_keyboard_layout.zip)
+
+
 
 استخرج الملف، ثم شغّل ملف setup.exe، وستتم عملية التثبيت كالمعتاد. بعد التثبيت، أعد تشغيل الكمبيوتر.
 
