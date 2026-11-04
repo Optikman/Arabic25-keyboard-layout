@@ -24,7 +24,15 @@
 
 ## لقطاط شاشة
 
-<img width="696" height="192" alt="Arabic25_image" src="https://github.com/user-attachments/assets/e1111c26-05c4-4ee2-8585-f689a7715385" />
+<img width="816" height="277" alt="arabic-keyboard-layout" src="https://github.com/user-attachments/assets/8df015eb-3ab8-4077-85c2-7e47ff6f2cfa" />
+
+#
+#
+#
+#
+#
+#
+#
 
 
 
