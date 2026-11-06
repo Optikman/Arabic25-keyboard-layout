@@ -45,7 +45,8 @@
 
 ## للتثبيت
 
-[arabic25_keyboard_layout.zip](https://github.com/user-attachments/files/34334160/arabic25_keyboard_layout.zip)
+[Elkatib.zip](https://github.com/user-attachments/files/34494266/Elkatib.zip)
+
 
 
 
