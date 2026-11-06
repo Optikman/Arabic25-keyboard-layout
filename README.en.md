@@ -1,20 +1,18 @@
 
 This is an English explanation of the layout, for arabic >> [اللغة العربية](README.md)
 
-# Arabic25 — Arabic Keyboard Layout
+# َ Elkatib — Arabic Keyboard Layout
 
 
-Arabic25 is an Arabic keyboard layout designed to make
+**Elkatib** is an Arabic keyboard layout designed to make
 Arabic typing faster, easier, and more efficient.
 
-This repository contains the Arabic25 keyboard layout,
+This repository contains the **Elkatib** keyboard layout,
 installation files, keyboard mapping, documentation, and resources.
 
 ## Arabic Keyboard Layout
 
-Arabic25 provides an alternative layout for typing Arabic characters
-on a computer. It is designed as an alternative to the standard
-Arabic keyboard layout.
+**Elkatib**
 
 ## This layout is based on study and research.
 
@@ -24,11 +22,10 @@ to download and read the study >> [Paper92021.pdf](https://github.com/user-attac
 
 ## Features
 
-- Alternative Arabic keyboard layout
+- Better Arabic keyboard layout
 - Optimized Arabic character arrangement
 - Easy-to-learn keyboard mapping
 - Suitable for Arabic typing
-- Open source
 
 
 ## ScreenShots
