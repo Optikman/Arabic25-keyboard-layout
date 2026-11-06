@@ -41,7 +41,7 @@ to download and read the study >> [Paper92021.pdf](https://github.com/user-attac
 
 ## install
 
-[arabic25_keyboard_layout.zip](https://github.com/user-attachments/files/34333900/arabic25_keyboard_layout.zip)
+[Elkatib.zip](https://github.com/user-attachments/files/34494307/Elkatib.zip)
 
 
 ## Setup
