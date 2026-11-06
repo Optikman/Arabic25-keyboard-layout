@@ -30,8 +30,8 @@ to download and read the study >> [Paper92021.pdf](https://github.com/user-attac
 
 ## ScreenShots
 
+<img width="816" height="277" alt="arabic-keyboard-layout" src="https://github.com/user-attachments/assets/8df015eb-3ab8-4077-85c2-7e47ff6f2cfa" />
 
-<img width="696" height="192" alt="Arabic25_image" src="https://github.com/user-attachments/assets/77786fb7-a8f6-42f8-92c2-3b320c37b82b" />
 
 
 ## using Shift🔽
